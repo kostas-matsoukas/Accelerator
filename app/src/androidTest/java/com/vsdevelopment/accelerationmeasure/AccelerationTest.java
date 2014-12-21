@@ -24,6 +24,6 @@ public class AccelerationTest extends ActivityUnitTestCase<Acceleration> {
     }
 
     public void testLayout() {
-        assertNotNull(acceleration.findViewById(R.id.currentSpeed));
+        assertNotNull(acceleration.findViewById(R.id.accelerationCurrentSpeed));
     }
 }

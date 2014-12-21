@@ -6,5 +6,11 @@
     <string name="action_settings">Settings</string>
     <string name="start">Start</string>
     <string name="title_activity_acceleration">Acceleration</string>
+    <string name="zero_to_sixty">0-60: </string>
+    <string name="zero_to_hundred">0-100: </string>
+    <string name="zero_to_hundred_sixty">0-160: </string>
+    <string name="current_speed">Current speed: </string>
+    <string name="satellites_used">Satellites used: </string>
+    <string name="satellites_total">Satellites total: </string>
 
 </resources>
